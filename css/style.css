@@ -722,11 +722,11 @@ footer .cont-footer{
     }
 
     .nav-link {
-        margin-top: 5px;
+        margin-top: -15px;
     }
 
     .nav{
-        min-height: 15vh;
+        min-height: 7vh;
     }
 
     .nav .nav-items .nav-link:hover {
