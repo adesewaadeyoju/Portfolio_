@@ -725,6 +725,10 @@ footer .cont-footer{
         margin-top: 5px;
     }
 
+    .nav{
+        min-height: 15vh;
+    }
+
     .nav .nav-items .nav-link:hover {
         background-color: var(--bg-color);
         font-size: larger;
